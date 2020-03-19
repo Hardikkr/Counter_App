@@ -27,7 +27,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.red,
           title: Text('Flutter Demo Home Page'),
         ),
         body: Center(
@@ -49,10 +49,11 @@ class _MyAppState extends State<MyApp> {
         ),
         floatingActionButton: FloatingActionButton(
           onPressed: increaseone,
-          backgroundColor: Colors.blue,
+          backgroundColor: Colors.red,
           child: Icon(Icons.add),
         )
     )
     );
   }
 }
+
