@@ -14,7 +14,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
 
   int number=0;
-  void increaseone(){
+  void _increaseone(){
     setState(() {
       number++;
     });
@@ -48,7 +48,7 @@ class _MyAppState extends State<MyApp> {
           ),
         ),
         floatingActionButton: FloatingActionButton(
-          onPressed: increaseone,
+          onPressed: _increaseone,
           backgroundColor: Colors.red,
           child: Icon(Icons.add),
         )
