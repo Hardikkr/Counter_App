@@ -5,4 +5,4 @@ This application counts the number of taps or the number of times you pressed th
 
 ## Project Image
 
-<img src="https://user-images.githubusercontent.com/61787056/77328685-e4ac7d00-6d42-11ea-8616-d6813c9147fa.jpg" width=600 height=1000>
+<img src="https://user-images.githubusercontent.com/61787056/77328685-e4ac7d00-6d42-11ea-8616-d6813c9147fa.jpg" width=600 height=800>
